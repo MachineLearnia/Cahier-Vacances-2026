@@ -5,5 +5,7 @@ description = "2026"
 readme = "README.md"
 requires-python = ">=3.13.2"
 dependencies = [
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.0",
     "pandas>=3.0.3",
 ]
