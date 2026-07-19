@@ -162,3 +162,5 @@ def print_champion(team):
     print(f"\n{'*' * 60}")
     print(f"   🏆 CHAMPION DU MONDE 2030 : {team_label(team).upper()} 🏆")
     print("*" * 60)
+
+
